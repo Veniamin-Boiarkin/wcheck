@@ -1,0 +1,10 @@
+# php wallet.php
+
+----- Wallet Info -----
+Coins: 1, 2, 5, 1, 2, 5, 1, 2, 5
+Sum of coins: 24
+-----------------------
+----- Wallet Info -----
+Coins: 5, 2, 2, 2, 1, 1, 1, 3
+Sum of coins: 17
+-----------------------
